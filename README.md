@@ -31,3 +31,5 @@
 > - Avast AntiVirus
 >  - Нажмите на Avast AntiVirus, Выберите Опции Для Полного Удаления В Деинсталляторе, Следуйте Правилам 1010101's ASR И Ждите.
 ***
+
+## Any Issues,Bugs,Glitches Report In "Issues" Tab.
